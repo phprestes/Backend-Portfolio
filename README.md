@@ -64,4 +64,15 @@ The portfolio is organized by area. Each project includes a brief description, c
     <img src="https://gh-card.dev/repos/pedrohpd/Farol_da_Arte.svg" alt="Repo Card" />
   </a>
 
+## 💡 Collaborative Project
+* **Project Name:** MePaga — Shared Expenses Web App
+* **Description:** A front-end web application for splitting shared expenses among friends: users keep a wallet of debts, manage their friends, and create events or payments that generate the debts to be settled. Built with plain HTML, CSS, and JavaScript on top of a JSON-based data layer.
+* **Techniques:** DOM Manipulation, Client-Side State & Data Layer (JSON), Debt Tracking & Event Creation, Friends Management, Responsive Layout.
+* **Stack:** `JavaScript`, `HTML`, `CSS`, `JSON`
+* **Repository:**
+
+  <a href="https://github.com/bielpieroli/WEB_ME_PAGA">
+    <img src="https://gh-card.dev/repos/bielpieroli/WEB_ME_PAGA.svg" alt="Repo Card" />
+  </a>
+
 ---
